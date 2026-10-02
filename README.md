@@ -1,1 +1,1 @@
-# DM_HW_2
+# Data Mining Homework 2
